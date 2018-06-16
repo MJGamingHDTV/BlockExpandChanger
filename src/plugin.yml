@@ -1,0 +1,10 @@
+name: BlockExpandChanger
+version: 1.0.0
+author: MJ
+main: eu.mj.block.expand.changer.BlockExpandChanger
+
+commands:
+   BlockExpandChanger:
+      aliases: [bec, blockexpand]
+      usage: Error! Use /bec <glass, clay, wool>!
+      description: Activates or deactivates bec.
